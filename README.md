@@ -1,0 +1,1 @@
+COUNT SORT: keep the difference between maximum and minimum value in input array less than 10^5
